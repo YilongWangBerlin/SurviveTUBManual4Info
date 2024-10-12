@@ -14,6 +14,7 @@
 - WhatsApp: https://chat.whatsapp.com/Grk9sTI04HlCclHgcxAa92 and https://chat.whatsapp.com/BXtZwZOi5zpIRMzfdZUwwt
 - Discord: https://discord.gg/Ekb6WUMF
 - Matrix (多为master使用)
+
 FYI: Discord是tutor们最常出没的地方, 你能在这里了解到许多学校少为人知的辛集, 他们也非常乐意去回答你提出的问题并偷偷嘲笑你,以theoretische informatik的课最甚(forsa,ds,beko,logik等等), theoretische informatik的课以极好的nerd氛围, 极高的难度与极低的通过率而闻名. 
 
 
