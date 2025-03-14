@@ -1,5 +1,7 @@
 本项目旨在更好的帮助ersti以适应工大学业, 并提供了一份**选课指南**以供参考, 该项目将被长期维护，希望能给未来的工大在读和入学新生同学带来微小的帮助. 
 
+For the **English version of this guide**, please refer to **[English README](./README_EN.md)** in the **same directory** of this repository.
+
 同时本项目尚处于初始阶段, 在科研, 找工作, 选导师, 海外交换, 奖学金申请等部分尚未完成, 因此本项目迫切的需要更多的贡献者的力量来加以完善. 若同学们想在其他领域分享自己的经历与资源, 或是贡献一门新的课程, 请直接在项目中提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 由于个人水平有限,本文难免有笔误和错误之处,或是课程有了新的变化,也请各位不吝赐教,在 issue 中提出来。
@@ -188,4 +190,3 @@ https://tubcloud.tu-berlin.de/s/6oiqpSgyZgf6Dse?path=%2F2024-02-16
 
 最后祝大家生活愉快,学业顺利,happy coding!
 
-王老邪
